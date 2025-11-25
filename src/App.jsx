@@ -393,7 +393,6 @@ const PRICING_PLANS = [
       "Dynamic sections (gallery, menu, offers, updates, projects etc.)",
       "Smooth animations & interactive elements",
       "WhatsApp button + inquiry form",
-      "Google Business setup",
       "15 days support"
     ],
     color: "from-purple-500 to-pink-500",
