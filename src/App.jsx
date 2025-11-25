@@ -370,7 +370,7 @@ const SERVICES = [
 const PRICING_PLANS = [
   {
     title: "Static Website",
-    price: "₹20,000",
+    price: "₹19,999",
     desc: "A clean, fast and professional static website for small businesses who need a solid digital presence without complex features.",
     features: [
       "Up to 5 pages (Home, About, Services/Menu, Gallery, Contact)",
@@ -385,7 +385,7 @@ const PRICING_PLANS = [
   },
   {
     title: "Advanced Front-end",
-    price: "₹30,000",
+    price: "₹29,999",
     desc: "A more advanced front-end website with dynamic sections, smooth animations and better interactivity.",
     features: [
       "Up to 10 pages",
