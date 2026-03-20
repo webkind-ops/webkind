@@ -406,6 +406,7 @@ const MOCKUP_IMAGES_ROW1 = [
   'salon 1.jpg',
   'Real estate 1.jpg',
   'aavya1.jpg',
+  'lifeos1.png'
 ];
 
 const MOCKUP_IMAGES_ROW2 = [
@@ -413,7 +414,8 @@ const MOCKUP_IMAGES_ROW2 = [
   'real estate 2.jpg',
   'aavya 2.jpg',
   'salon 3.jpg',
-  'happy.png'
+  'happy.png',
+  'lifeos2.png'
 ];
 
 // --- Reusable Components ---
