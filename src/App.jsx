@@ -82,8 +82,8 @@ const AppContent = ({ introFinished, setIntroFinished }) => {
             </div>
           </div>
           
-          {/* Mobile/Tablet Navigation - Always BubbleMenu */}
-          <div className="xl:hidden fixed inset-0 z-50 pointer-events-none">
+          {/* Mobile Navigation - Always BubbleMenu */}
+          <div className="md:hidden fixed inset-0 z-50 pointer-events-none">
             <BubbleMenu 
               items={navItems}
               menuBg="#111"
@@ -92,7 +92,7 @@ const AppContent = ({ introFinished, setIntroFinished }) => {
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden xl:block">
+          <div className="hidden md:block">
             {isHomePage ? (
               <div className="fixed inset-0 z-50 pointer-events-none">
                 <BubbleMenu 
